@@ -1,5 +1,5 @@
 #counting the numbers of characters
-#write a porgram tha twill ask a user for an input of a word or 
+#write a porgram that will ask a user for an input of a word or 
 #multiple words and give back the number of characters. Spaces
 #should not be counted as a character
 
